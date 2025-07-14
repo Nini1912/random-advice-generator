@@ -39,10 +39,10 @@ function App() {
         </>
       )}
       <div className="img-container">
-        <img src="/Group.svg" alt="" />
+        <img src="./Group.svg" alt="" />
       </div>
       <button onClick={newAdvice} disabled={loading}>
-        <img src="/Shape.svg" alt="get new advice" />
+        <img src="./Shape.svg" alt="get new advice" />
       </button>
     </div>
   );
