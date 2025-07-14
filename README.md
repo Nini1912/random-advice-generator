@@ -1,6 +1,6 @@
 # Advice Generator App
 
-<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/db85162a-03ac-44b5-9f12-6a7d9f4d52aa" />
+<img width="1918" height="910" alt="Screenshot 2025-07-14 181643" src="https://github.com/user-attachments/assets/24988be4-52be-4dd5-a64c-09e3def73b7d" />
 
 
 A simple application built with React that generates random advice slips by fetching data from the Advice Slip API. This project is a great example of how to handle asynchronous API requests, manage state, and deal with side effects in a modern React application using hooks.
