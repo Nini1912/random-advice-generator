@@ -39,10 +39,10 @@ function App() {
         </>
       )}
       <div className="img-container">
-        <img src="./Group.svg" alt="" />
+        <img src={process.env.PUBLIC_URL + '/Group.svg'} alt="" />
       </div>
       <button onClick={newAdvice} disabled={loading}>
-        <img src="./Shape.svg" alt="get new advice" />
+        <img src={process.env.PUBLIC_URL + '/Shape.svg'} alt="get new advice" />
       </button>
     </div>
   );
